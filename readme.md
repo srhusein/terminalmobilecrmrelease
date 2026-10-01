@@ -1,1 +1,1 @@
-
+Terminal CRM — Windows quraşdırıcısı.
